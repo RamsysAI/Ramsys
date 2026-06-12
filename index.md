@@ -7,6 +7,10 @@ title: Ramsys
   .btn {
     display: none;
   }
+  
+  .site-footer-owner {
+    display: none;
+  }
 </style>
 
 Ramsys for Empowered Agentic AI solutions 
