@@ -7,6 +7,10 @@ title: First Post
   .btn {
     display: none;
   }
+
+.project-name {
+    display: none;
+  }
   
   .site-footer-owner {
     display: none;
