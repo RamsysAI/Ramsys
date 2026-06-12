@@ -1,2 +1,2 @@
 link here
-https://ramsysai.github.io/Ramsys/
+https://ramsysai.github.io/ramsys/
