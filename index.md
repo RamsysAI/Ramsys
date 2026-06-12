@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-This s Ramsys
+This is Ramsys
 ---
 ## Latest Posts
 
