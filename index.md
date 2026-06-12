@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-This is Ramsys
+This is Ramsys. Empowere Agentic AI solutions provider
 ---
 ## Latest Posts
 
