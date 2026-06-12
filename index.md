@@ -16,7 +16,7 @@ title: Ramsys
   }
 </style>
 
-Ramsys for Empowered Agentic AI solutions 
+
 
 
 # Intelligence that acts, not just answers.
@@ -123,18 +123,5 @@ Ready to deploy intelligence that moves your business? Whether you are exploring
 
 [Request a Briefing](mailto:hello@ramsys.ai)
 
-
-## Latest Posts
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      — {{ post.date | date: "%B %d, %Y" }}
-    </li>
-  {% endfor %}
-</ul>
----
-
-*© 2026 Ramsys. Empowered Agentic AI Solutions.*
+*© 2026 Ramsys*
 ---
