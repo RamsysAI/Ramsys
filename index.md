@@ -2,6 +2,8 @@
 layout: default
 title: Home
 ---
+This s Ramsys
+---
 ## Latest Posts
 
 <ul>
