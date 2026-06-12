@@ -1,1 +1,7 @@
+# _config.yml
 theme: jekyll-theme-cayman
+# OR, if you want to use the remote theme method (recommended for GitHub Pages):
+remote_theme: pages-themes/cayman@v0.2.0
+
+plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have a plugins array
