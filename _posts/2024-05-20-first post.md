@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "First Post"
+title: "Ramsys"
 ---
 
-# This is my post content
+# Post Title comes here
 The post comes here
