@@ -11,6 +11,9 @@ title: Ramsys
   .site-footer-owner {
     display: none;
   }
+  .site-footer-credits {
+    display: none;
+  }
 </style>
 
 Ramsys for Empowered Agentic AI solutions 
