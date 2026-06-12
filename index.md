@@ -2,6 +2,13 @@
 layout: default
 title: Ramsys
 ---
+<!-- 1. Add your CSS here -->
+<style>
+  .btn {
+    display: none;
+  }
+</style>
+
 Ramsys for Empowered Agentic AI solutions 
 ---
 ## Latest Posts
