@@ -3,6 +3,7 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme
 
-title: Ramsys Site
+title: Ramsys
 description: Ramsys for Empowered Agentic AI Solutions
+title_url: "https://ramsysai.github.io/Ramsys/" 
 show_downloads: false
