@@ -1,6 +1,6 @@
 ---
-layout: home
-title: Welcome to My Blog
+layout: default
+title: Home
 ---
 ## Latest Posts
 
