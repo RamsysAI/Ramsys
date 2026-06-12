@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Home
+title: Ramsys
 ---
-This is Ramsys for Empowered Agentic AI solutions 
+Ramsys for Empowered Agentic AI solutions 
 ---
 ## Latest Posts
 
