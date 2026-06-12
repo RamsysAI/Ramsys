@@ -18,11 +18,6 @@ title: Ramsys
 
 Ramsys for Empowered Agentic AI solutions 
 
----
-layout: default
-title: Ramsys — Empowered Agentic AI Solutions
-description: Ramsys builds autonomous AI agents that orchestrate complex workflows, make context-aware decisions, and drive measurable outcomes for the modern enterprise.
----
 
 # Intelligence that acts, not just answers.
 
@@ -128,10 +123,7 @@ Ready to deploy intelligence that moves your business? Whether you are exploring
 
 [Request a Briefing](mailto:hello@ramsys.ai)
 
----
 
-*© 2026 Ramsys. Empowered Agentic AI Solutions.*
----
 ## Latest Posts
 
 <ul>
@@ -142,4 +134,7 @@ Ready to deploy intelligence that moves your business? Whether you are exploring
     </li>
   {% endfor %}
 </ul>
+---
+
+*© 2026 Ramsys. Empowered Agentic AI Solutions.*
 ---
