@@ -119,9 +119,8 @@ Deep expertise across high-stakes domains where agentic AI demands both engineer
 
 Ready to deploy intelligence that moves your business? Whether you are exploring what agentic AI could do for a specific process or ready to scope a full enterprise deployment, we want to hear from you.
 
-**Email:** [hello@ramsys.ai](mailto:hello@ramsys.ai)
 
-[Request a Briefing](mailto:hello@ramsys.ai)
+[Request a Briefing](mailto:vijay.ramsys@gmail.com)
 
 *© 2026 Ramsys*
 ---
