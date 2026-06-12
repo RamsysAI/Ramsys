@@ -1,5 +1,6 @@
 ---
 layout: default
+title: First Post
 ---
 <!-- 1. Add your CSS here -->
 <style>
