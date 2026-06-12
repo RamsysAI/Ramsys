@@ -22,3 +22,5 @@ title: First Post
 
 # Post Title comes here
 The post comes here
+
+[Back to Home]({{ "/" | relative_url }})
