@@ -1,7 +1,6 @@
 ---
 layout: default
-title: "Ramsys"
-title_url: "https://ramsysai.github.io/Ramsys/" 
+title: "First post"
 ---
 
 # Post Title comes here
