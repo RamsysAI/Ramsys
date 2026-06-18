@@ -19,7 +19,7 @@ title: Ramsys
 
 
 
-# Intelligence that acts, not just answers.
+# Actionable Intelligence.
 
 **Empowered Agentic AI Solutions**
 
